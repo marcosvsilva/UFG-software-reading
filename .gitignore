@@ -1,0 +1,20 @@
+# Compiled class file
+*.class
+*.iml
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Intelij Configuration
+.idea
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
