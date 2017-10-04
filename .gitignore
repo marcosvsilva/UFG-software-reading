@@ -1,20 +1,19 @@
-# Compiled class file
+# Arquivos de Classes
 *.class
 *.iml
 
-# Log file
+# Arquivos de Log
 *.log
 
-# BlueJ files
-*.ctxt
 
-# Intelij Configuration
-.idea
-
-# Package Files #
+# Arquivos Compactados 
 *.jar
 *.war
 *.ear
 *.zip
 *.tar.gz
 *.rar
+
+# Configuracao de projeto 
+.idea
+target
