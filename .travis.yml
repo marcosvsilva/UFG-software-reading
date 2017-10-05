@@ -1,5 +1,0 @@
-language: java
-after_success:
-  - npm run build
-before_deploy:
-  - cd projeto  

@@ -1,2 +1,0 @@
-﻿# MultiplicacaoDeMatrizes
-Trabalho para realização multiplicação de matrizes de flutuantes das várias grandezas com teconologias paralelas e sequenciais a fim de comparação de desempenho.
