@@ -1,7 +1,7 @@
 # Leitura de Software 2017 - Professor Fábio Nogueira de Lucena
 
 [![Build Status](https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes.svg?branch=master)](https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes)
-[![Quality Gate](https://sonarqube.com/api/badges/gate?key=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)](https://sonarqube.com/dashboard/index/br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)
+[![Quality Gate](https://sonarqube.com/api/badges/gate?key=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)](https://sonarcloud.io/dashboard?id=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)
 
 [ProjetoIntegrado](https://github.com/marcosvsilva/MultiplicacaoDeMatrizes)
 
@@ -19,7 +19,7 @@ Repositório para atividades da disciplina de Leitura de Software
 | 7  | 1 | https://github.com/marcosvsilva/ls2017/wiki/ThoughtWorks |   |
 | 8  | 1 | https://github.com/marcosvsilva/ls2017/wiki/tecnologiasThoughtworks |   |
 | 9  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica/checkstyle e https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica2/pmd |   |
-| 10  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/javancss, https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes e https://sonarqube.com/dashboard/index/br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes |   |
+| 10  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/javancss, https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes e https://sonarcloud.io/dashboard?id=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes |   |
 | 11  |   |   |   |
 | 12  |   |   |   |
 | 13  |   |   |   |
