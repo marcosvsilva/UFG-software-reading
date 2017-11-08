@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes.svg?branch=master)](https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes)
 [![Quality Gate](https://sonarqube.com/api/badges/gate?key=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)](https://sonarcloud.io/dashboard?id=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes)
 
-[ProjetoIntegrado](https://github.com/marcosvsilva/MultiplicacaoDeMatrizes)
+[Projeto Integrado](https://github.com/marcosvsilva/MultiplicacaoDeMatrizes)
 
 Repositório para atividades da disciplina de Leitura de Software
 
@@ -23,6 +23,6 @@ Repositório para atividades da disciplina de Leitura de Software
 | 11  | 1 | https://github.com/marcosvsilva/ls2017/wiki/arquitetura |   |
 | 12  | 1 | https://github.com/marcosvsilva/ls2017/wiki/visualvm |   |
 | 13  | 1 | https://github.com/marcosvsilva/ls2017/wiki/sonarcloud |   |
-| 14  |   |   |   |
-| 15  |   |   |   |
+| 14  | 1 | https://github.com/marcosvsilva/ls2017/wiki/softvis3d  |   |
+| 15  | 1 | https://github.com/marcosvsilva/ls2017/blob/master/README.md |   |
 | 16  |   |   |   |
