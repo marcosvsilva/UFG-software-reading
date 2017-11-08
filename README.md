@@ -18,11 +18,11 @@ Repositório para atividades da disciplina de Leitura de Software
 | 6  | 1 | https://github.com/marcosvsilva/ls2017/wiki/Java-Tools-and-Technologies-2016 |   |
 | 7  | 1 | https://github.com/marcosvsilva/ls2017/wiki/ThoughtWorks |   |
 | 8  | 1 | https://github.com/marcosvsilva/ls2017/wiki/tecnologiasThoughtworks |   |
-| 9  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica/checkstyle <br> https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica2/pmd |   |
+| 9  | 1 | https://github.com/marcosvsilva/ls2017/wiki/Estilos-e-padr%C3%B5es-de-codifica%C3%A7%C3%A3o <br> https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica/checkstyle <br> https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica2/pmd |   |
 | 10  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/javancss <br> https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes <br> https://sonarcloud.io/dashboard?id=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes |   |
 | 11  | 1 | https://github.com/marcosvsilva/ls2017/wiki/arquitetura |   |
 | 12  | 1 | https://github.com/marcosvsilva/ls2017/wiki/visualvm |   |
 | 13  | 1 | https://github.com/marcosvsilva/ls2017/wiki/sonarcloud |   |
-| 14  | 1 |   |   |
+| 14  |   |   |   |
 | 15  |   |   |   |
 | 16  |   |   |   |
