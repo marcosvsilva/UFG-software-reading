@@ -20,9 +20,9 @@ Repositório para atividades da disciplina de Leitura de Software
 | 8  | 1 | https://github.com/marcosvsilva/ls2017/wiki/tecnologiasThoughtworks |   |
 | 9  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica/checkstyle <br> https://github.com/marcosvsilva/ls2017/tree/master/analise-estatica2/pmd |   |
 | 10  | 1 | https://github.com/marcosvsilva/ls2017/tree/master/javancss <br> https://travis-ci.org/marcosvsilva/MultiplicacaoDeMatrizes <br> https://sonarcloud.io/dashboard?id=br.inf.ufg.concorrencia%3AMultiplicacaoDeMatrizes |   |
-| 11  |   |   |   |
-| 12  |   |   |   |
-| 13  |   |   |   |
-| 14  |   |   |   |
+| 11  | 1 | https://github.com/marcosvsilva/ls2017/wiki/arquitetura |   |
+| 12  | 1 | https://github.com/marcosvsilva/ls2017/wiki/visualvm |   |
+| 13  | 1 | https://github.com/marcosvsilva/ls2017/wiki/sonarcloud |   |
+| 14  | 1 |   |   |
 | 15  |   |   |   |
 | 16  |   |   |   |
