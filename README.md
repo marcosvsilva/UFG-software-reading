@@ -23,6 +23,6 @@ Repositório para atividades da disciplina de Leitura de Software
 | 11  | 1 | https://github.com/marcosvsilva/ls2017/wiki/arquitetura |   |
 | 12  | 1 | https://github.com/marcosvsilva/ls2017/wiki/visualvm |   |
 | 13  | 1 | https://github.com/marcosvsilva/ls2017/wiki/sonarcloud |   |
-| 14  | 1 | https://github.com/marcosvsilva/ls2017/wiki/softvis3d  |   |
+| 14  | 1 | https://github.com/marcosvsilva/ls2017/wiki/softvis3d  | A ferramenta poderia ter sido executada em um projeto de maior volume e complexidade para adquirir uma maior experiência com a ferramenta |
 | 15  | 1 | https://github.com/marcosvsilva/ls2017/blob/master/README.md |   |
 | 16  |   |   |   |
